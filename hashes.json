@@ -1,10 +1,10 @@
 {
   "Files": {
     // REMPLACEZ "YOUR_MYWPFAPP_DLL_HASH_HERE" par le hash SHA256 réel de votre fichier MyWPFApp.dll
-    "MyWPFApp.dll": "YOUR_MYWPFAPP_DLL_HASH_HERE",
+    "FreeM.dll": "CA3B540737F3F74FAF921374B48AB2E36AB933093822D50D6303C6B80B46ABFF",
 
     // REMPLACEZ "YOUR_FIC_DLL_HASH_HERE" par le hash SHA256 réel de votre fichier FIC.dll
-    "FIC.dll": "YOUR_FIC_DLL_HASH_HERE"
+    "FIC.dll": "36144AA798A38997599938E93353F94E6BDCAB2A6CFB3A38691727C20B4E7262"
 
     // Ajoutez ici d'autres fichiers critiques de votre application (par exemple, des fichiers de données, d'autres DLL),
     // et remplacez "YOUR_OTHER_FILE_HASH_HERE" par leurs hashes réels.
