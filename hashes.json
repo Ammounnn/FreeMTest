@@ -4,7 +4,7 @@
     "FreeM.dll": "6a8dc76032c70230dacaf90620ffc11122f924bb572570b6e70e4b3ba948bbfa",
 
     // REMPLACEZ "YOUR_FIC_DLL_HASH_HERE" par le hash SHA256 réel de votre fichier FIC.dll
-    "FIC.dll": "a38903e0f0109a59ff4d0356daaccc8bd1b4f6ec7e096062cf7f4e8f0d250b92"
+    "FIC.dll": "36144AA798A38997599938E93353F94E6BDCAB2A6CFB3A38691727C20B4E7262"
 
     // Ajoutez ici d'autres fichiers critiques de votre application (par exemple, des fichiers de données, d'autres DLL),
     // et remplacez "YOUR_OTHER_FILE_HASH_HERE" par leurs hashes réels.
