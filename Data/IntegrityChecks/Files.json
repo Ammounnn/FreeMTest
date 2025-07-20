@@ -5,6 +5,7 @@
 
     // REMPLACEZ "YOUR_FIC_DLL_HASH_HERE" par le hash SHA256 réel de votre fichier FIC.dll
     "FIC.dll": "a38903e0f0109a59ff4d0356daaccc8bd1b4f6ec7e096062cf7f4e8f0d250b92"
+    "MIC.dll": "a38903e0f0109a59ff4d0356daaccc8bd1b4f6ec7e096062cf7f4e8f0d250b92"
 
     // Ajoutez ici d'autres fichiers critiques de votre application (par exemple, des fichiers de données, d'autres DLL),
     // et remplacez "YOUR_OTHER_FILE_HASH_HERE" par leurs hashes réels.
